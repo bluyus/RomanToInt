@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stefano\\source\\repos\\RomanToInteger\\RomanToInteger\\RomanToInteger.csproj",
+      "projectUniqueName": "C:\\Users\\Stefano\\Documents\\RomanToInt\\RomanToInteger\\RomanToInteger.csproj",
       "projectName": "RomanToInteger",
-      "projectPath": "C:\\Users\\Stefano\\source\\repos\\RomanToInteger\\RomanToInteger\\RomanToInteger.csproj",
+      "projectPath": "C:\\Users\\Stefano\\Documents\\RomanToInt\\RomanToInteger\\RomanToInteger.csproj",
       "packagesPath": "C:\\Users\\Stefano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stefano\\source\\repos\\RomanToInteger\\RomanToInteger\\obj\\",
+      "outputPath": "C:\\Users\\Stefano\\Documents\\RomanToInt\\RomanToInteger\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stefano\\AppData\\Roaming\\NuGet\\NuGet.Config",
