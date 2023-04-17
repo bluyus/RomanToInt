@@ -1,0 +1,15 @@
+C:\Users\Stefano\source\repos\RomanToInteger\RomanToInteger\obj\Debug\net6.0\RomanToInteger.csproj.AssemblyReference.cache
+C:\Users\Stefano\source\repos\RomanToInteger\RomanToInteger\obj\Debug\net6.0\RomanToInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefano\source\repos\RomanToInteger\RomanToInteger\obj\Debug\net6.0\RomanToInteger.AssemblyInfoInputs.cache
+C:\Users\Stefano\source\repos\RomanToInteger\RomanToInteger\obj\Debug\net6.0\RomanToInteger.AssemblyInfo.cs
+C:\Users\Stefano\source\repos\RomanToInteger\RomanToInteger\obj\Debug\net6.0\RomanToInteger.csproj.CoreCompileInputs.cache
+C:\Users\Stefano\source\repos\RomanToInteger\RomanToInteger\bin\Debug\net6.0\RomanToInteger.exe
+C:\Users\Stefano\source\repos\RomanToInteger\RomanToInteger\bin\Debug\net6.0\RomanToInteger.deps.json
+C:\Users\Stefano\source\repos\RomanToInteger\RomanToInteger\bin\Debug\net6.0\RomanToInteger.runtimeconfig.json
+C:\Users\Stefano\source\repos\RomanToInteger\RomanToInteger\bin\Debug\net6.0\RomanToInteger.dll
+C:\Users\Stefano\source\repos\RomanToInteger\RomanToInteger\bin\Debug\net6.0\RomanToInteger.pdb
+C:\Users\Stefano\source\repos\RomanToInteger\RomanToInteger\obj\Debug\net6.0\RomanToInteger.dll
+C:\Users\Stefano\source\repos\RomanToInteger\RomanToInteger\obj\Debug\net6.0\refint\RomanToInteger.dll
+C:\Users\Stefano\source\repos\RomanToInteger\RomanToInteger\obj\Debug\net6.0\RomanToInteger.pdb
+C:\Users\Stefano\source\repos\RomanToInteger\RomanToInteger\obj\Debug\net6.0\RomanToInteger.genruntimeconfig.cache
+C:\Users\Stefano\source\repos\RomanToInteger\RomanToInteger\obj\Debug\net6.0\ref\RomanToInteger.dll
