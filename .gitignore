@@ -1,0 +1,41 @@
+# Visual Studio
+.vs/
+obj/
+bin/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+
+# NuGet Packages
+*.nupkg
+packages/
+*.lock.json
+project.lock.json
+*.csproj.nuget.props
+*.csproj.nuget.targets
+
+# MSTest test Results
+[TestResults]
+*.testresults
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Visual Studio Code
+.vscode/
